@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-It gives a circuit diagram for F = AB + C'. Outputs are x, y and inputs are A, B, C
+It gives a circuit diagram for F = AB + C'. Outputs are x, y and inputs are A, B, C 
 ## How to test
 
 Explain how to use your project
