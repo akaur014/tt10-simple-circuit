@@ -4,7 +4,7 @@
 # defaults
 SIM ?= icarus
 TOPLEVEL_LANG ?= verilog
-SRC_DIR = $(PWD)/../src
+SRC_DIR = $(PWD)/../src 
 PROJECT_SOURCES = tt_um_akaur014_simple_circuit.v
 
 ifneq ($(GATES),yes)
